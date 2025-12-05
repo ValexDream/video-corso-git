@@ -8,3 +8,4 @@ Umo dei miei piatti preferiti, che delizia
 * aglio
 * olio
 * pepernocino
+* Prezzemolo (aggiunto da Git)
