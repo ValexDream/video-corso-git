@@ -7,5 +7,7 @@
 * Risotto ai funghi
 * Pennette alla carbonara
 * Minestrone di verdure
+* Salmone al cartoccio
+
 
 
