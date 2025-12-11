@@ -1,0 +1,12 @@
+# file da ignorare
+idee*.txt
+
+# ignore tutto ciò che c'è dentro alla cartella idee (a livello globale)
+#idee/  
+
+# ignora tuttii fiel all'interno della directory
+idee/*
+
+# con unto esclamativo avvisiamo di non ignorare il file istruzioni
+!idee/istruzioni.md
+
