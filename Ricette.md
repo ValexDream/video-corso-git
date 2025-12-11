@@ -3,11 +3,17 @@
 
 ## Elenco delle ricettte
 
+### Primi
 * Spagetti aglio,olio e peperoncino
 * Risotto ai funghi
 * Pennette alla carbonara
-* Minestrone di verdure
-* Salmone al cartoccio
+
+# Secondi
+* Salmone al Cartoccio 
+
+# Zuppe
+Minestrone di verdure
+
 
 
 
